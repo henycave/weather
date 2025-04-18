@@ -20,7 +20,7 @@ A Flutter application that displays real-time weather information based on your 
 - **Dart** – Programming language
 - **Riverpod** – Robust and testable state management
 - **Geolocator** – To fetch the device's current location
-- **OpenWeatherMap API** – For weather data
+- **OpenWeatherMap API** – For weather and geocoding data
 - **Clean Architecture**
 
 ---
